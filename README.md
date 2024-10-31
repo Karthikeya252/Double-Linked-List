@@ -7,10 +7,13 @@
 - And "doubly_list.c" that contains main function.
 - These 2 files are written and executed in CentOS, therefore to compile and run it requires some commands they are mentioned below
 - To create a file with header file extention
-      - $vi doubly_list.h      //This contains all funciton
-      - $vi doubly_list.c      //This contains main function
+
+        - $vi doubly_list.h      //This contains all funciton
+        - $vi doubly_list.c      //This contains main function
 - To compile the program
-      - $cc doubly_list.c -o double_list
+  
+        - $cc doubly_list.c -o double_list
 - To run the program
-      - $./double_list
+
+        - $./double_list
 - "double_list" is called the output file.
